@@ -1,7 +1,7 @@
 :root {
---text-color: #f4bed9;
---card-front-color: #f27ace;
---card-back-color: #f396d1;
+--text-color: #bee0f4;
+--card-front-color: #6bc7e5;
+--card-back-color: #7dd7ee;
 }
 
 body {
@@ -17,7 +17,7 @@ body {
 }
  .cartao {
   margin: 1rem 1rem;
-  background-color: pink;
+  background-color: rgb(172, 239, 234);
   height: 20rem;
   flex-grow: 1;
   flex-basis: calc(33% -6rem);
@@ -25,7 +25,7 @@ body {
  .cartao__conteudo h3 {
   color: var(--text-color);
  border: 1px solid var(--text-color);
- background-color: rgb(254, 165, 236);
+ background-color: rgb(161, 226, 246);
  text-align: left;
  padding: 0.5rem;
  position: absolute;
