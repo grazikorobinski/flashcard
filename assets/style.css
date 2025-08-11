@@ -92,7 +92,7 @@ footer p{
 @media (max-width: 560px) {
 
     body {
-        background: url('assets/bg-mobile.webp');
+        background: url('mobile.webp');
     }
     .cartao {
         flex: 1 0 calc(100% - 1rem);
