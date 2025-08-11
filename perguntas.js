@@ -1,7 +1,7 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Matematica',
+    'Quanto anos tem um século?',
+    '100 anos'
 )
 
 criaCartao(
@@ -11,12 +11,12 @@ criaCartao(
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Biologia',
+    'Quantas patas uma formiga possui?',
+    'Seis patas'
 )
     criaCartao(
-    'Lingua inglesa',
-    'Como se diz OI em inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Geografia',
+    'Os faraós eram governantes de qual país?',
+    'Egito'
 )
