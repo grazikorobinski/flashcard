@@ -1,7 +1,7 @@
 :root {
---text-color: #139261;
---card-front-color: #51c0a8;
---card-back-color: oklab(62.487% -0.1279 0.03745);
+--text-color: #09968f;
+--card-front-color: #76dee0;
+--card-back-color: oklab(76.763% -0.12518 -0.01272);
 }
 
 body {
@@ -17,7 +17,7 @@ body {
 }
  .cartao {
   margin: 1rem 1rem;
-  background-color: #22b691;
+  background-color: #08c8ce;
   height: 20rem;
   flex-grow: 1;
   flex-basis: calc(33% -6rem);
@@ -25,7 +25,7 @@ body {
  .cartao__conteudo h3 {
   color: var(--text-color);
  border: 1px solid var(--text-color);
- background-color: #2ca782;
+ background-color: #239295;
  text-align: left;
  padding: 0.5rem;
  position: absolute;
