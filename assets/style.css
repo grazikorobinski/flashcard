@@ -5,7 +5,7 @@
 }
 
 body {
-  background: url('bg-desktop.webp') ;
+  background: url('background-1634817_1280.webp') ;
     font-family: Bai Jamjuree;
 }
  #container {
@@ -92,7 +92,7 @@ footer p{
 @media (max-width: 560px) {
 
     body {
-        background: url('mobile.webp');
+        background: url('premium_photo-1701590725721-add548ecdf61.jpeg');
     }
     .cartao {
         flex: 1 0 calc(100% - 1rem);
