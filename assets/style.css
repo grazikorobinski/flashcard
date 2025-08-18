@@ -1,6 +1,6 @@
 :root {
 --text-color: #09968f;
---card-front-color: #76dee0;
+--card-front-color: #55d5d7;
 --card-back-color: oklab(76.763% -0.12518 -0.01272);
 }
 
@@ -25,7 +25,7 @@ body {
  .cartao__conteudo h3 {
   color: var(--text-color);
  border: 1px solid var(--text-color);
- background-color: #239295;
+ background-color: #2bcdd2;
  text-align: left;
  padding: 0.5rem;
  position: absolute;
